@@ -23,4 +23,4 @@ else:
 ![438635966-2d1612a7-8a61-4033-88cb-5fcbab407c5c](https://github.com/user-attachments/assets/cf1ba474-917f-4e2f-8a4c-4eb0123de5b0)
 
 ## Result
-Thus, the program as been excuted successfully.
+Thus, the program as been executed successfully.
