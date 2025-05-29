@@ -30,4 +30,4 @@ print('d:',d)
 ![438637470-ea64d494-b2a2-4b1a-833e-0e561296ecf0](https://github.com/user-attachments/assets/abdb3000-e758-4b38-90b9-4bdecf765b8f)
 
 ## Result
-Thus, the program as been excuted successfully.
+Thus, the program as been executed successfully.
